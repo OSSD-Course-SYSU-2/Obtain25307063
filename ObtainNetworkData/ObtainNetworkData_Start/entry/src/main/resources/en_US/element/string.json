@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ObtainNetworkData"
+    },
+    {
+      "name": "Network_Available",
+      "value": "Network Available"
+    },
+    {
+      "name": "Network_Unavailable",
+      "value": "Network Unavailable"
+    },
+    {
+      "name": "Network_Lost",
+      "value": "Network Lost"
+    },
+    {
+      "name": "Internet",
+      "value": "Request for online pictures"
+    },
+    {
+      "name": "http_request_data",
+      "value": "http Request data"
+    },
+    {
+      "name": "rcp_request_data",
+      "value": "rcp Request Data"
+    },
+    {
+      "name": "picture_rendering",
+      "value": "Picture Rendering"
+    },
+    {
+      "name": "home_title",
+      "value": "Obtain Network Image Data"
+    },
+    {
+      "name": "network_request_data",
+      "value": "The Data Of The Network Request"
+    },
+    {
+      "name": "loading_data",
+      "value": "Loading Data..."
+    },
+    {
+      "name": "network_error",
+      "value": "Network Error"
+    },
+    {
+      "name": "no_data",
+      "value": "No Data"
+    },
+    {
+      "name": "serial_number",
+      "value": "NO."
+    },
+    {
+      "name": "web_image_address",
+      "value": "Web Image Address"
+    },
+    {
+      "name": "render_network_image",
+      "value": "Render Network Image"
+    }
+  ]
+}

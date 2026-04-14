@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "从网络获取图片数据"
+    },
+    {
+      "name": "Network_Available",
+      "value": "网络可用"
+    },
+    {
+      "name": "Network_Unavailable",
+      "value": "网络不可用"
+    },
+    {
+      "name": "Network_Lost",
+      "value": "网络丢失"
+    },
+    {
+      "name": "Internet",
+      "value": "请求网络图片"
+    },
+    {
+      "name": "http_request_data",
+      "value": "http请求数据"
+    },
+    {
+      "name": "rcp_request_data",
+      "value": "rcp请求数据"
+    },
+    {
+      "name": "picture_rendering",
+      "value": "图片渲染"
+    },
+    {
+      "name": "home_title",
+      "value": "从网络获取图片数据"
+    },
+    {
+      "name": "network_request_data",
+      "value": "网络请求的数据"
+    },
+    {
+      "name": "loading_data",
+      "value": "正在加载数据..."
+    },
+    {
+      "name": "network_error",
+      "value": "网络错误"
+    },
+    {
+      "name": "no_data",
+      "value": "暂无数据"
+    },
+    {
+      "name": "serial_number",
+      "value": "序号"
+    },
+    {
+      "name": "web_image_address",
+      "value": "网络图片地址"
+    },
+    {
+      "name": "render_network_image",
+      "value": "渲染网络图片"
+    }
+  ]
+}
