@@ -11,7 +11,8 @@
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.window.d.ts",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\application\\UIAbilityContext.d.ts",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\application\\ApplicationContext.d.ts",
-        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\application\\UIExtensionContext.d.ts"
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\application\\UIExtensionContext.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets"
       ],
       "error": false
     },
@@ -28,7 +29,8 @@
       "parent": [
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\application\\UIAbilityContext.d.ts",
-        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts"
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.app.ability.AbilityLifecycleCallback.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets"
       ],
       "error": false
     },
@@ -81,7 +83,10 @@
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\build-tools\\ets-loader\\declarations\\video.d.ts",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.web.webview.d.ts",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.print.d.ts",
-        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets"
+        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets"
       ],
       "error": false
     },
@@ -94,7 +99,13 @@
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets",
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets",
-        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets"
+        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets"
       ],
       "error": false
     },
@@ -120,7 +131,9 @@
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\build-tools\\ets-loader\\declarations\\folder_stack.d.ts",
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\build-tools\\ets-loader\\declarations\\nav_destination.d.ts",
-        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\build-tools\\ets-loader\\declarations\\navigation.d.ts"
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\build-tools\\ets-loader\\declarations\\navigation.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets"
       ],
       "error": false
     },
@@ -1542,7 +1555,8 @@
         "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.file.BackupExtensionContext.d.ts"
       ],
       "parent": [
-        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets"
+        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets"
       ],
       "error": false
     },
@@ -1602,7 +1616,9 @@
       ],
       "parent": [
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
-        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets"
+        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets"
       ],
       "error": false
     },
@@ -1614,7 +1630,8 @@
       ],
       "parent": [
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
-        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.net.connection.d.ts"
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.net.connection.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
       ],
       "error": false
     },
@@ -1757,7 +1774,9 @@
       "children": [],
       "parent": [
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
-        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets"
+        "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets"
       ],
       "error": false
     },
@@ -2216,6 +2235,142 @@
       ],
       "parent": [
         "D:\\chengxv\\ObtainNetworkData\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets": {
+      "mtimeMs": 1770799662000,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.window.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.hilog.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\model\\ImgModel.ets"
+      ],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entryability\\EntryAbility.ets": {
+      "mtimeMs": 1770799661000,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.app.ability.ConfigurationConstant.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.app.ability.UIAbility.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.base.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.hilog.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.window.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\model\\ImgModel.ets": {
+      "mtimeMs": 1770799662000,
+      "children": [],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\view\\ImageDataView.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\entrybackupability\\EntryBackupAbility.ets": {
+      "mtimeMs": 1770799662000,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.application.BackupExtensionAbility.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.hilog.d.ts"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets": {
+      "mtimeMs": 1776761874018.8833,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.base.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.hilog.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\hms\\ets\\api\\@hms.collaboration.rcp.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.net.http.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\model\\ImgModel.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\view\\ImageDataView.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\constants\\Constants.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets"
+      ],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\Index.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\Index.ets": {
+      "mtimeMs": 1770799662000,
+      "children": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
+      ],
+      "parent": [],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets": {
+      "mtimeMs": 1776164660919.293,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.arkui.advanced.EditableTitleBar.d.ets",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.arkui.advanced.EditableTitleBar.d.ets",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.base.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.hilog.d.ts",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\model\\ImgModel.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\constants\\Constants.ets"
+      ],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDetailPage.ets": {
+      "mtimeMs": 1776761861585.6052,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.arkui.advanced.EditableTitleBar.d.ets",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.arkui.advanced.EditableTitleBar.d.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\model\\ImgModel.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\WindowAvoidAreaUtils.ets"
+      ],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\view\\ImageDataView.ets": {
+      "mtimeMs": 1770799662000,
+      "children": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\model\\ImgModel.ets"
+      ],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\constants\\Constants.ets": {
+      "mtimeMs": 1776163559857.3655,
+      "children": [],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets",
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageRenderingPage.ets"
+      ],
+      "error": false
+    },
+    "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\utils\\RCPUtils.ets": {
+      "mtimeMs": 1770799662000,
+      "children": [
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\openharmony\\ets\\api\\@ohos.hilog.d.ts",
+        "C:\\Program Files\\Huawei\\DevEco Studio\\sdk\\default\\hms\\ets\\api\\@hms.collaboration.rcp.d.ts"
+      ],
+      "parent": [
+        "D:\\test\\test2\\ObtainPage25307063\\Obtain25307063\\ObtainNetworkData\\ObtainNetworkData_Complete\\entry\\src\\main\\ets\\pages\\ImageDataPage.ets"
       ],
       "error": false
     }

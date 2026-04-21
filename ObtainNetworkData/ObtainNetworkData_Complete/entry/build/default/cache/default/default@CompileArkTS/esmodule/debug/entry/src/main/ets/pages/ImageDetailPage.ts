@@ -5,12 +5,17 @@ import { EditableLeftIconType } from "@ohos:arkui.advanced.EditableTitleBar";
 import { EditableTitleBar } from "@ohos:arkui.advanced.EditableTitleBar";
 import { WindowWidthHeight } from "@normalized:N&&&entry/src/main/ets/model/ImgModel&";
 import { WindowAvoidAreaUtils } from "@normalized:N&&&entry/src/main/ets/utils/WindowAvoidAreaUtils&";
+interface ImageDetailParams {
+    imageUrl: ResourceStr;
+    imageIndex: number;
+    totalImages: number;
+}
 export class ImageDetailPage extends ViewV2 {
     constructor(parent, params, __localStorage, elmtId = -1, paramsLambda, extraInfo) {
         super(parent, elmtId, extraInfo);
-        this.initParam("imageUrl", (params && "imageUrl" in params) ? params.imageUrl : undefined);
-        this.initParam("imageIndex", (params && "imageIndex" in params) ? params.imageIndex : undefined);
-        this.initParam("totalImages", (params && "totalImages" in params) ? params.totalImages : undefined);
+        this.imageUrl = '';
+        this.imageIndex = 0;
+        this.totalImages = 0;
         this.isBlur = undefined;
         this.isLoading = true;
         this.loadError = false;
@@ -19,19 +24,19 @@ export class ImageDetailPage extends ViewV2 {
         this.finalizeConstruction();
     }
     public resetStateVarsOnReuse(params: Object): void {
-        this.resetParam("imageUrl", (params && "imageUrl" in params) ? params.imageUrl : undefined);
-        this.resetParam("imageIndex", (params && "imageIndex" in params) ? params.imageIndex : undefined);
-        this.resetParam("totalImages", (params && "totalImages" in params) ? params.totalImages : undefined);
+        this.imageUrl = '';
+        this.imageIndex = 0;
+        this.totalImages = 0;
         this.isBlur = undefined;
         this.isLoading = true;
         this.loadError = false;
     }
-    @Param
-    readonly imageUrl: ResourceStr;
-    @Param
-    readonly imageIndex: number;
-    @Param
-    readonly totalImages: number;
+    @Local
+    imageUrl: ResourceStr;
+    @Local
+    imageIndex: number;
+    @Local
+    totalImages: number;
     @Local
     isBlur?: boolean; // 设置状态栏、标题栏是否模糊
     @Local
@@ -240,7 +245,7 @@ export class ImageDetailPage extends ViewV2 {
                                         this.pageInfos.pop();
                                     }
                                 }
-                            }, undefined, elmtId, () => { }, { page: "entry/src/main/ets/pages/ImageDetailPage.ets", line: 140, col: 11 });
+                            }, undefined, elmtId, () => { }, { page: "entry/src/main/ets/pages/ImageDetailPage.ets", line: 146, col: 11 });
                             ViewPU.create(componentCall);
                             let paramsLambda = () => {
                                 return {
@@ -281,23 +286,16 @@ export class ImageDetailPage extends ViewV2 {
             });
             NavDestination.onReady((context: NavDestinationContext) => {
                 this.pageInfos = context.pathStack;
+                // 获取传递的参数
+                const params = context.pathStack.getParamByName('ImageDetailPage') as ImageDetailParams[];
+                if (params && params.length > 0) {
+                    this.imageUrl = params[0].imageUrl;
+                    this.imageIndex = params[0].imageIndex;
+                    this.totalImages = params[0].totalImages;
+                }
             });
         }, NavDestination);
         NavDestination.pop();
-    }
-    public updateStateVars(params) {
-        if (params === undefined) {
-            return;
-        }
-        if ("imageUrl" in params) {
-            this.updateParam("imageUrl", params.imageUrl);
-        }
-        if ("imageIndex" in params) {
-            this.updateParam("imageIndex", params.imageIndex);
-        }
-        if ("totalImages" in params) {
-            this.updateParam("totalImages", params.totalImages);
-        }
     }
     rerender() {
         this.updateDirtyElements();

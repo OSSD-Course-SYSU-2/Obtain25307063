@@ -17,11 +17,17 @@ import { EditableLeftIconType, EditableTitleBar } from '@kit.ArkUI';
 import { WindowWidthHeight } from '../model/ImgModel';
 import { WindowAvoidAreaUtils } from '../utils/WindowAvoidAreaUtils';
 
+interface ImageDetailParams {
+  imageUrl: ResourceStr;
+  imageIndex: number;
+  totalImages: number;
+}
+
 @ComponentV2
 export struct ImageDetailPage {
-  @Require @Param imageUrl: ResourceStr;
-  @Require @Param imageIndex: number;
-  @Require @Param totalImages: number;
+  @Local imageUrl: ResourceStr = '';
+  @Local imageIndex: number = 0;
+  @Local totalImages: number = 0;
   @Local isBlur?: boolean; // 设置状态栏、标题栏是否模糊
   @Local isLoading: boolean = true; // 图片加载状态
   @Local loadError: boolean = false; // 图片加载错误状态
@@ -173,6 +179,13 @@ export struct ImageDetailPage {
     })
     .onReady((context: NavDestinationContext) => {
       this.pageInfos = context.pathStack;
+      // 获取传递的参数
+      const params = context.pathStack.getParamByName('ImageDetailPage') as ImageDetailParams[];
+      if (params && params.length > 0) {
+        this.imageUrl = params[0].imageUrl;
+        this.imageIndex = params[0].imageIndex;
+        this.totalImages = params[0].totalImages;
+      }
     })
   }
 }

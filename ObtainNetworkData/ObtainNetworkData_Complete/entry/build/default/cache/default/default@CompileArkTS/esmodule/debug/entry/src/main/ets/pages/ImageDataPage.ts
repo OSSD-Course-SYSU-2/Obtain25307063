@@ -119,21 +119,15 @@ export class ImageDataPage extends ViewV2 {
                     {
                         this.observeComponentCreation2((elmtId, isInitialRender) => {
                             if (isInitialRender) {
-                                let componentCall = new ImageDetailPage(this, { imageUrl: '', imageIndex: 0, totalImages: 0 }, undefined, elmtId, () => { }, { page: "entry/src/main/ets/pages/ImageDataPage.ets", line: 97, col: 7 });
+                                let componentCall = new ImageDetailPage(this, {}, undefined, elmtId, () => { }, { page: "entry/src/main/ets/pages/ImageDataPage.ets", line: 97, col: 7 });
                                 ViewV2.create(componentCall);
                                 let paramsLambda = () => {
-                                    return {
-                                        imageUrl: '',
-                                        imageIndex: 0,
-                                        totalImages: 0
-                                    };
+                                    return {};
                                 };
                                 componentCall.paramsGenerator_ = paramsLambda;
                             }
                             else {
-                                this.updateStateVarsOfChildByElmtId(elmtId, {
-                                    imageUrl: '', imageIndex: 0, totalImages: 0
-                                });
+                                this.updateStateVarsOfChildByElmtId(elmtId, {});
                             }
                         }, { name: "ImageDetailPage" });
                     }

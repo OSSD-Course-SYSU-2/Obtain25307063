@@ -94,7 +94,7 @@ export struct ImageDataPage {
     if (pageName === Constants.IMAGE_RENDERING_PAGE_NAME) {
       ImageRenderingPage({ imgInfo: this.imgInfo });
     } else if (pageName === Constants.IMAGE_DETAIL_PAGE_NAME) {
-      ImageDetailPage({ imageUrl: '', imageIndex: 0, totalImages: 0 });
+      ImageDetailPage();
     }
   }
 
